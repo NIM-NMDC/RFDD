@@ -32,24 +32,24 @@ We evaluated RFDD on 5 state-of-the-art detectors. The results demonstrate the d
 ### 1. Detection Performance
 *Evaluated on the high-quality test set (100 images).*
 
-| Method | mAP@0.5 | mAP@0.5:0.95 | Recall | Precision |
-| :--- | :---: | :---: | :---: | :---: |
-| **RT-DETR** | 0.9038 | 0.5996 | 0.9250 | 0.9435 |
-| **YOLOv8m** | 0.9665 | 0.6517 | 0.9203 | 0.9348 |
-| **YOLOv9c** | **0.9668** | 0.6796 | 0.8998 | 0.9503 |
-| **YOLOv10m** | 0.9439 | 0.6730 | 0.9155 | **0.9598** |
-| **YOLOv11m** | 0.9614 | **0.7106** | **0.9224** | 0.9218 |
+| Method | mAP@0.5 | mAP@0.5:0.95 | Recall | Precision | **Weights** |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **RT-DETR** | 0.9038 | 0.5996 | 0.9250 | 0.9435 | [🔗 Download](https://aistudio.baidu.com/dataset/detail/364368/intro) |
+| **YOLOv8m** | 0.9665 | 0.6517 | 0.9203 | 0.9348 | [🔗 Download](https://aistudio.baidu.com/dataset/detail/364368/intro) |
+| **YOLOv9c** | **0.9668** | 0.6796 | 0.8998 | 0.9503 | [🔗 Download](https://aistudio.baidu.com/dataset/detail/364368/intro) |
+| **YOLOv10m** | 0.9439 | 0.6730 | 0.9155 | **0.9598** | [🔗 Download](https://aistudio.baidu.com/dataset/detail/364368/intro) |
+| **YOLOv11m** | 0.9614 | **0.7106** | **0.9224** | 0.9218 | [🔗 Download](https://aistudio.baidu.com/dataset/detail/364368/intro) |
 
 ### 2. Classification & Diagnostics
 *Metrics derived from detection results to evaluate fault diagnosis reliability.*
 
-| Method | Accuracy | Specificity | Sensitivity | F1-Score | Kappa |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **RT-DETR** | 0.9766 | **0.9982** | 0.9499 | 0.9427 | 0.6483 |
-| **YOLOv8m** | 0.9866 | 0.9718 | 0.8961 | 0.8957 | 0.8174 |
-| **YOLOv9c** | 0.9850 | 0.9731 | 0.8477 | 0.8616 | 0.8020 |
-| **YOLOv10m** | **0.9916** | 0.9797 | 0.9607 | **0.9407** | **0.8751** |
-| **YOLOv11m** | 0.9847 | 0.9699 | 0.8634 | 0.8756 | 0.7943 |
+| Method | Accuracy | Specificity | Sensitivity | F1-Score | Kappa | **Weights** |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **RT-DETR** | 0.9766 | **0.9982** | 0.9499 | 0.9427 | 0.6483 | [🔗 Download](https://aistudio.baidu.com/dataset/detail/364368/intro) |
+| **YOLOv8m** | 0.9866 | 0.9718 | 0.8961 | 0.8957 | 0.8174 | [🔗 Download](https://aistudio.baidu.com/dataset/detail/364368/intro) |
+| **YOLOv9c** | 0.9850 | 0.9731 | 0.8477 | 0.8616 | 0.8020 | [🔗 Download](https://aistudio.baidu.com/dataset/detail/364368/intro) |
+| **YOLOv10m** | **0.9916** | 0.9797 | 0.9607 | **0.9407** | **0.8751** | [🔗 Download](https://aistudio.baidu.com/dataset/detail/364368/intro) |
+| **YOLOv11m** | 0.9847 | 0.9699 | 0.8634 | 0.8756 | 0.7943 | [🔗 Download](https://aistudio.baidu.com/dataset/detail/364368/intro) |
 
 ---
 
