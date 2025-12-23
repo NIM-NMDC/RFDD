@@ -5,6 +5,8 @@
 
 **RFDD** is a high-fidelity, raw-scale dataset constructed for fine-grained fastener defect detection in high-speed railway systems. It features **pixel-level annotations** and strictly adheres to visual consistency principles to ensure engineering realism.
 
+> **📢 Notice**: The complete source code and processing scripts will be fully released upon the official acceptance of our paper.
+
 ---
 
 ## 📊 Dataset Info
