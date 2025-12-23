@@ -54,7 +54,7 @@ We evaluated RFDD on 5 state-of-the-art detectors. The results demonstrate the d
 
 The following figures illustrate the model behaviors and the feature discriminability of the RFDD dataset.
 
-![Experiment Results](path/to/your/image_92bd8b.png)
+![Experiment Results](fig/fig1.png)
 *Figure: (A) Confusion Matrices showing inter-class reliability. (B) ROC Curves demonstrating high sensitivity. (C) t-SNE visualization validating the distinct feature clustering of the 6 categories.*
 
 ---
@@ -65,8 +65,6 @@ If you find RFDD useful for your research, please cite:
 
 ```bibtex
 @article{RFDD2025,
-  title={A Raw-Scale, Pixel-Level Annotated Dataset for Multi-Type Fastener Defect Inspection},
-  author={Your Name and Co-authors},
-  journal={Journal Name},
-  year={2025}
+  title={RFDD: A Full-Scene, High-Resolution Dataset for Fastener Defect Detection in High-Speed Railways},
+  author={Bin Wang},
 }
