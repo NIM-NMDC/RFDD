@@ -54,7 +54,7 @@ We evaluated RFDD on 5 state-of-the-art detectors. The results demonstrate the d
 
 The following figures illustrate the model behaviors and the feature discriminability of the RFDD dataset.
 
-![Experiment Results](fig/fig2.png)
+![Experiment Results](fig/fig1.png)
 *Figure: (A) Confusion Matrices showing inter-class reliability. (B) ROC Curves demonstrating high sensitivity. (C) t-SNE visualization validating the distinct feature clustering of the 6 categories.*
 
 ---
