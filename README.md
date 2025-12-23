@@ -20,8 +20,9 @@
 
 > **Note**: The dataset construction is governed by 6 consistency principles: *Geometry, Optics, Boundary, Noise, Texture, and Hierarchy*.
 
-![Experiment Results](fig/fig2.png)
+![Experiment Results](fig/Datasets.png)
 *Figure: Five representative defect classes: Missing, Inverted, Displaced, Deformed, and Fractured*
+
 ---
 
 ## 🏆 Model Zoo & Benchmarks
