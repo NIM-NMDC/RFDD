@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="fig/RFDD.png" alt="RFDD Dataset Cover" width="80%"/>
+  <img src="fig/RFDD.png" alt="RFDD Dataset Cover" width="100%"/>
 </p>
 
 **RFDD** is a high-fidelity, raw-scale dataset constructed for fine-grained fastener defect detection in high-speed railway systems. It features **pixel-level annotations** and strictly adheres to visual consistency principles to ensure engineering realism.
