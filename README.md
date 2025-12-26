@@ -1,5 +1,8 @@
 # RFDD: Railway Fastener Defect Dataset
 
+<p align="center">
+  <img src="fig/RFDD" alt="RFDD Dataset Cover" width="70%"/>
+</p>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Dataset](https://img.shields.io/badge/Dataset-RFDD-blue.svg)](https://github.com/NIM-NMDC/RFDD)
 
