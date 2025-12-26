@@ -1,10 +1,11 @@
 # RFDD: Railway Fastener Defect Dataset
 
 <p align="center">
-  <img src="fig/RFDD" alt="RFDD Dataset Cover" width="70%"/>
+  <img src="fig/RFDD.png" alt="RFDD Dataset Cover" width="100%"/>
 </p>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Dataset](https://img.shields.io/badge/Dataset-RFDD-blue.svg)](https://github.com/NIM-NMDC/RFDD)
+
 
 **RFDD** is a high-fidelity, raw-scale dataset constructed for fine-grained fastener defect detection in high-speed railway systems. It features **pixel-level annotations** and strictly adheres to visual consistency principles to ensure engineering realism.
 
