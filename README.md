@@ -1,7 +1,13 @@
 # RFDD: Railway Fastener Defect Dataset
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Dataset](https://img.shields.io/badge/Dataset-RFDD-blue.svg)](https://github.com/NIM-NMDC/RFDD)
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"></a>
+  <a href="https://github.com/NIM-NMDC/RFDD"><img src="https://img.shields.io/badge/Dataset-RFDD-blue.svg" alt="Dataset"></a>
+  <a href="https://aistudio.baidu.com/dataset/detail/364368/intro"><img src="https://img.shields.io/badge/AI%20Studio-Weights-0070CC.svg" alt="AI Studio"></a>
+  <a href="https://github.com/ultralytics/ultralytics"><img src="https://img.shields.io/badge/YOLO-v8%20%7C%20v9%20%7C%20v10%20%7C%20v11-00FFFF.svg" alt="YOLO"></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white" alt="PyTorch"></a>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white" alt="OpenCV"></a>
+</p>
 
 <p align="center">
   <img src="fig/RFDD.png" alt="RFDD Dataset Cover" width="70%"/>
